@@ -49,16 +49,4 @@ def plot(arr):
 	plt.colorbar()
 	plt.show()
 
-
-
-
-
-
 compute_spectrogram()
-
-
-
-
-
-
-
